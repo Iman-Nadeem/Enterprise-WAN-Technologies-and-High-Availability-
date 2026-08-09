@@ -114,6 +114,3 @@ Primary and backup routers are configured at the branches, while the WAN Core us
 - Network Troubleshooting
 
 
-
-Network Administration Intern  
-ITSimplera Solutions
